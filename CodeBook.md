@@ -1,4 +1,4 @@
-            CodeBook - Getting and Cleaning Data Project - 2015
+## CodeBook - Getting and Cleaning Data Project - 2015
 ==========================================================================
 ********************************************************************************
 **subject** | 1 | The subject who performed the activity. Its range is from 1 to 30. 
